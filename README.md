@@ -1,4 +1,15 @@
-﻿# 🎓 مرور جامع React و Next.js — بر اساس داکیومنت رسمی
+﻿<div dir="rtl">
+
+# 🎓 مرور جامع React و Next.js — بر اساس داکیومنت رسمی
+
+<div align="center">
+
+[![AI Generated](https://img.shields.io/badge/Generated%20by-GLM--5.3--Flash-blue?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Language](https://img.shields.io/badge/Language-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-success?style=for-the-badge)](#)
+[![Format](https://img.shields.io/badge/Format-PDF%20%2B%20Markdown-orange?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](#)
+
+</div>
 
 > 🤖 **تولید شده توسط هوش مصنوعی:** این دوره به‌طور کامل توسط مدل **GLM-5.3-Flash** تولید و تدوین شده است.
 > **نسخه دوره:** سپتامبر ۲۰۲۶ — مرور بر اساس **React 19.2** و **Next.js 16.3**
@@ -79,3 +90,5 @@
 ## 📥 دانلود مستقیم نسخه چاپی و PDF کتاب
 
 برای دسترسی و دانلود مستقیم فایل PDF کامل این دوره آموزشی، به بخش **[Releases](../../releases)** همین ریپازیتوری مراجعه کنید یا فایل PDF قرار داده شده در ریشه مخزن را دریافت نمایید.
+
+</div>
