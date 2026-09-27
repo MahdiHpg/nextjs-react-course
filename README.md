@@ -63,3 +63,19 @@
 ## 📄 نسخه PDF
 
 نسخه PDF رنگی راست‌به‌چپ (فونت وزیرمتن) در همین پوشه: **«مرور کامل React و Next.js.pdf»**. بازسازی: `python build/build_pdf.py` + رندر Chrome headless.
+
+---
+
+## 🏷️ کلمات کلیدی و برچسب‌های سئو (SEO Keywords & Tags)
+
+> **تگ‌های پیشنهادی برای مخزن گیت‌هاب (Topics):**
+> `react, nextjs, app-router, server-components, typescript, frontend, tailwindcss, persian-tutorial, farsi, آموزش-نکست-جی-اس`
+
+**کلمات کلیدی جستجو:**  
+آموزش صفر تا صد Next.js و React به فارسی, کتاب آموزش نکست جی اس pdf, آموزش App Router در Next.js, یادگیری ری اکت برای استخدام, سرور کامپوننت ها
+
+---
+
+## 📥 دانلود مستقیم نسخه چاپی و PDF کتاب
+
+برای دسترسی و دانلود مستقیم فایل PDF کامل این دوره آموزشی، به بخش **[Releases](../../releases)** همین ریپازیتوری مراجعه کنید یا فایل PDF قرار داده شده در ریشه مخزن را دریافت نمایید.
